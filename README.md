@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdur Rehman
-- 👀 I’m interested in Web dev.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning OOP.
 - 💞️ I’m looking to collaborate on Frontend projects.
 - 📫 rehman.programs@gmail.com
