@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdur Rehman
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning OOP.
+- 👀 I’m interested in Frontend Software Development.
+- 🌱 I’m currently learning DSA in C++.
 - 💞️ I’m looking to collaborate on Frontend projects.
 - 📫 rehman.programs@gmail.com
 
