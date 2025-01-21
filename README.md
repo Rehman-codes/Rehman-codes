@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdur Rehman
 - 👀 I’m interested in Full Stack Software Development.
-- 🌱 I’m currently learning Databases.
-- 💞️ I’m looking to collaborate on Web based projects.
+- 🌱 I’m currently learning Computer Networks.
+- 💞️ I’m looking to collaborate on Web-based projects.
 - 📫 abdurrehman.swe@gmail.com
 
 <!---
